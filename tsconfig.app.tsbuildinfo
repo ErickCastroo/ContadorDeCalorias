@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/data/categorias.tsx","./src/types/index.tsx","./src/components/activitylist/index.tsx","./src/components/caloriedisplay/index.tsx","./src/components/calorietracker/index.tsx","./src/components/form/index.tsx","./src/reducers/activityreducer.ts"],"version":"5.6.2"}
